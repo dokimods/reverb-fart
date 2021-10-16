@@ -2,7 +2,6 @@
 ##- Reverb Farts ---------
 ##########################
 
-## Ignore all files other than script-poemgame.rpy
 *
 
 !game
@@ -10,3 +9,4 @@
 !game/cum
 !game/cum/**
 !.gitignore
+!README.md
