@@ -1,1 +1,12 @@
-.DS_Store
+##########################
+##- Reverb Farts ---------
+##########################
+
+## Ignore all files other than script-poemgame.rpy
+*
+
+!game
+!game/reverb_fartinator.rpy
+!game/cum
+!game/cum/**
+!.gitignore
